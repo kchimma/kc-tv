@@ -29,9 +29,9 @@
         }
       ]
     },
-  {
-"name": "2DKL",
-  "image": "xxx",
+    {
+      "name": "1DKL",
+      "image": "xxx",
       "stations": [
         {
           "name": "HBO",
@@ -52,7 +52,7 @@
           "info": "server dookeela",
           "playInNatPlayer": true,
           "desktop": true
-}
+        }
       ]
     }
   ]
