@@ -1,3 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="xxx",xxx
+#EXTINF:-1 tvg-logo="xxx",SkySport
+https://github.com/kchimma/kc-tv/blob/0a936c02021dbfcd6461fa8792e8139295588305/skysport.m3u8
