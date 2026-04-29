@@ -1,16 +1,16 @@
 {
-  "name": "000 dookeela",
-  "author": "dookeela Playlist",
-  "image": "https://linktr.ee/og/image/dookeela.jpg",
+  "name": "1DKL",
+  "author": "Playlist",
+  "image": "xxx",
   "groups": [
     {
-      "name": "dookeela[Sports]",
-      "image": "https://linktr.ee/og/image/dookeela.jpg",
+      "name": "DKL",
+      "image": "XXX",
       "stations": [
         {
-          "name": "tsp7",
+          "name": "SRL",
           "image": "xxx",
-          "url": "https://dookeela4.live/live-tv/tsp7",
+          "url": "https://dookeela4.live/live-tv/samrujlok",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "info": "server dookeela",
@@ -18,9 +18,9 @@
           "desktop": true
         },
         {
-          "name": "hbo",
+          "name": "xxx",
           "image": "xxx",
-          "url": "https://dookeela4.live/live-tv/hbo",
+          "url": "xxx",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "info": "server dookeela",
