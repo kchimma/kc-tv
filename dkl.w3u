@@ -1,37 +1,16 @@
 {
-  "name": "1DKL",
-  "author": "Playlist",
-  "image": "xxx",
+  "name": "My Playlist",
+  "author": "user",
   "groups": [
     {
-      "name": "DKL",
-      "image": "XXX",
+      "name": "สารคดี",
       "stations": [
         {
-          "name": "SRL",
-          "image": "xxx",
+          "name": "สำรวจโลก",
           "url": "https://dookeela4.live/live-tv/samrujlok",
           "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0",
-          "info": "server dookeela",
-          "playInNatPlayer": true,
-          "desktop": true
-        }
-      ]
-    },
-    {
-      "name": "2DKL",
-      "image": "xxx",
-      "stations": [
-        {
-          "name": "HBO",
-          "image": "xxx",
-          "url": "https://dookeela4.live/live-tv/hbo",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0",
-          "info": "server dookeela",
-          "playInNatPlayer": true,
-          "desktop": true
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+          "image": ""
         }
       ]
     }
