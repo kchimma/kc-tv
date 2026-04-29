@@ -1,7 +1,491 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="xxx",PPTV HD
-https://love.pifipa2974.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="xxx",CH3 HD
-https://love.pifipa2974.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 1
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776299.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776298.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 9 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776297.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 9
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776296.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 8
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776295.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 8 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776294.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 7
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776292.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 6
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776291.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 7 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776290.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 7 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776293.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 6 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776289.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 5 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776288.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 4
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776285.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 4 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776286.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 3 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776284.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 3
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776283.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 2 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776282.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 2
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776281.m3u8
+#EXTINF:-1 group-title="401",|TH| AIS Live 1 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776280.m3u8
+#EXTINF:-1 group-title="401",|TH| Spark Play/Topfight HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776249.m3u8
+#EXTINF:-1 group-title="401",|TH| Boomerang (True)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776248.m3u8
+#EXTINF:-1 group-title="401",|TH| X-Zyte HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776247.m3u8
+#EXTINF:-1 group-title="401",|TH| KBS Drama HD (Korea)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776246.m3u8
+#EXTINF:-1 group-title="401",|TH| Mangkorn Channel HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776245.m3u8
+#EXTINF:-1 group-title="401",|TH| Workpoint
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776243.m3u8
+#EXTINF:-1 group-title="401",|TH| Nick Jr. HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776242.m3u8
+#EXTINF:-1 group-title="401",|TH| YTN [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776244.m3u8
+#EXTINF:-1 group-title="401",|TH| White Channel FHD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776241.m3u8
+#EXTINF:-1 group-title="401",|TH| Warner TV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776240.m3u8
+#EXTINF:-1 group-title="401",|TH| TVB HD (Movies)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776238.m3u8
+#EXTINF:-1 group-title="401",|TH| W Sport HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776239.m3u8
+#EXTINF:-1 group-title="401",|TH| TV Direct
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776237.m3u8
+#EXTINF:-1 group-title="401",|TH| Cable 37 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776236.m3u8
+#EXTINF:-1 group-title="401",|TH| True Music
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776234.m3u8
+#EXTINF:-1 group-title="401",|TH| Suwannabhumi Channel HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776233.m3u8
+#EXTINF:-1 group-title="401",|TH| True4U
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776235.m3u8
+#EXTINF:-1 group-title="401",|TH| Toonee
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776230.m3u8
+#EXTINF:-1 group-title="401",|TH| Trace Sport
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776232.m3u8
+#EXTINF:-1 group-title="401",|TH| TNN24 [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776229.m3u8
+#EXTINF:-1 group-title="401",|TH| Top News HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776231.m3u8
+#EXTINF:-1 group-title="401",|TH| TNN 2
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776228.m3u8
+#EXTINF:-1 group-title="401",|TH| TLC
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776227.m3u8
+#EXTINF:-1 group-title="401",|TH| TLC HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776226.m3u8
+#EXTINF:-1 group-title="401",|TH| ThaiRath HD [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776225.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai PBS HD [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776223.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai PBS HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776222.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai Parliament TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776221.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai Film [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776220.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai Film HD [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776219.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai BeIN Sports 2 HD [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776211.m3u8
+#EXTINF:-1 group-title="401",|TH| Thai BeIN Sports 1 HD [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776210.m3u8
+#EXTINF:-1 group-title="401",|TH| Tennis HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776208.m3u8
+#EXTINF:-1 group-title="401",|TH| Star Chinese Movies HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776205.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox News Asia HD (Eng)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776206.m3u8
+#EXTINF:-1 group-title="401",|TH| Star Chinese Classics HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776203.m3u8
+#EXTINF:-1 group-title="401",|TH| Star Chinese Classics
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776204.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport 3 [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776202.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport HD 2 [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776198.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport 7 [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776195.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport 6 [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776194.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport 2 [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776192.m3u8
+#EXTINF:-1 group-title="401",|TH| Sport 2 [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776191.m3u8
+#EXTINF:-1 group-title="401",|TH| Spark Play [THAI]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776190.m3u8
+#EXTINF:-1 group-title="401",|TH| Spark Jump
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776189.m3u8
+#EXTINF:-1 group-title="401",|TH| Skynetsports 2 FHD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776188.m3u8
+#EXTINF:-1 group-title="401",|TH| Skynetsport 3 FHD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776186.m3u8
+#EXTINF:-1 group-title="401",|TH| SERIES [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776185.m3u8
+#EXTINF:-1 group-title="401",|TH| Skynetsports 1 FHD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776187.m3u8
+#EXTINF:-1 group-title="401",|TH| Rock Action HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776183.m3u8
+#EXTINF:-1 group-title="401",|TH| Russia Today
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776184.m3u8
+#EXTINF:-1 group-title="401",|TH| Rock Entertainment HD (True)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776182.m3u8
+#EXTINF:-1 group-title="401",|TH| Reality Channel HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776180.m3u8
+#EXTINF:-1 group-title="401",|TH| Monomax 2 Premiere League HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776176.m3u8
+#EXTINF:-1 group-title="401",|TH| Monomax 1 Premiere League HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776175.m3u8
+#EXTINF:-1 group-title="401",|TH| 3BB Sport HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776171.m3u8
+#EXTINF:-1 group-title="401",|TH| 3BB Asian HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776170.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football 4-X
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776163.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football 3
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776159.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football 1  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776156.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football HD 3 [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776151.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football HD 1 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776145.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football HD 1  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776144.m3u8
+#EXTINF:-1 group-title="401",|TH| Premier Football 1 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776143.m3u8
+#EXTINF:-1 group-title="401",|TH| PPTV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776142.m3u8
+#EXTINF:-1 group-title="401",|TH| PPTV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776141.m3u8
+#EXTINF:-1 group-title="401",|TH| Police TV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776140.m3u8
+#EXTINF:-1 group-title="401",|TH| Phoenix InfoNews (CN)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776139.m3u8
+#EXTINF:-1 group-title="401",|TH| PBS HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776138.m3u8
+#EXTINF:-1 group-title="401",|TH| Paramount
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776137.m3u8
+#EXTINF:-1 group-title="401",|TH| NHK World Japan
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776134.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTV News 1 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776135.m3u8
+#EXTINF:-1 group-title="401",|TH| Outdoor Channel HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776136.m3u8
+#EXTINF:-1 group-title="401",|TH| NFL HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776132.m3u8
+#EXTINF:-1 group-title="401",|TH| NFL
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776133.m3u8
+#EXTINF:-1 group-title="401",|TH| TPTV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776129.m3u8
+#EXTINF:-1 group-title="401",|TH| NATION TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776126.m3u8
+#EXTINF:-1 group-title="401",|TH| NBA HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776127.m3u8
+#EXTINF:-1 group-title="401",|TH| Nat Geo Wild HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776125.m3u8
+#EXTINF:-1 group-title="401",|TH| Nat Geo HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776124.m3u8
+#EXTINF:-1 group-title="401",|TH| MVLAO
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776123.m3u8
+#EXTINF:-1 group-title="401",|TH| Nickelodeon (Thai AISPlay)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776122.m3u8
+#EXTINF:-1 group-title="401",|TH| MTN News (KR)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776120.m3u8
+#EXTINF:-1 group-title="401",|TH| MTV YO!
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776121.m3u8
+#EXTINF:-1 group-title="401",|TH| MOVIE-HITS [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776119.m3u8
+#EXTINF:-1 group-title="401",|TH| MONO29
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776117.m3u8
+#EXTINF:-1 group-title="401",|TH| Mono Music
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776118.m3u8
+#EXTINF:-1 group-title="401",|TH| MCOT
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776116.m3u8
+#EXTINF:-1 group-title="401",|TH| MajorMix
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776115.m3u8
+#EXTINF:-1 group-title="401",|TH| Major Channel Mix
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776114.m3u8
+#EXTINF:-1 group-title="401",|TH| TVK KHMER
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776111.m3u8
+#EXTINF:-1 group-title="401",|TH| TV9 KHMER
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776112.m3u8
+#EXTINF:-1 group-title="401",|TH| TV5 KHMER
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776113.m3u8
+#EXTINF:-1 group-title="401",|TH| Lifetime HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776109.m3u8
+#EXTINF:-1 group-title="401",|TH| Latin Zone TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776110.m3u8
+#EXTINF:-1 group-title="401",|TH| Love Nature HD (TH-ENG)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776107.m3u8
+#EXTINF:-1 group-title="401",|TH| Lifetime (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776108.m3u8
+#EXTINF:-1 group-title="401",|TH| Laos TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776106.m3u8
+#EXTINF:-1 group-title="401",|TH| Laos ISTV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776105.m3u8
+#EXTINF:-1 group-title="401",|TH| Lao Campa TV2
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776102.m3u8
+#EXTINF:-1 group-title="401",|TH| Laos DDTV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776104.m3u8
+#EXTINF:-1 group-title="401",|TH| Lao-Thai TV USA
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776103.m3u8
+#EXTINF:-1 group-title="401",|TH| Lao Campa TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776101.m3u8
+#EXTINF:-1 group-title="401",|TH| Korean More SD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776100.m3u8
+#EXTINF:-1 group-title="401",|TH| Korean More HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776099.m3u8
+#EXTINF:-1 group-title="401",|TH| KBS World HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776098.m3u8
+#EXTINF:-1 group-title="401",|TH| Hits-Movies HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776096.m3u8
+#EXTINF:-1 group-title="401",|TH| Inside HD 
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776097.m3u8
+#EXTINF:-1 group-title="401",|TH| History HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776095.m3u8
+#EXTINF:-1 group-title="401",|TH| History HD  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776094.m3u8
+#EXTINF:-1 group-title="401",|TH| History 2 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776091.m3u8
+#EXTINF:-1 group-title="401",|TH| History 2  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776092.m3u8
+#EXTINF:-1 group-title="401",|TH| History 2 HD  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776090.m3u8
+#EXTINF:-1 group-title="401",|TH| HBO [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776087.m3u8
+#EXTINF:-1 group-title="401",|TH| HBO Family HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776089.m3u8
+#EXTINF:-1 group-title="401",|TH| HBO Hits HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776088.m3u8
+#EXTINF:-1 group-title="401",|TH| HBO  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776086.m3u8
+#EXTINF:-1 group-title="401",|TH| KMTV/ Good Idea TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776084.m3u8
+#EXTINF:-1 group-title="401",|TH| HBO Signature
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776085.m3u8
+#EXTINF:-1 group-title="401",|TH| Astro Golf HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776083.m3u8
+#EXTINF:-1 group-title="401",|TH| GOLF HD  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776082.m3u8
+#EXTINF:-1 group-title="401",|TH| Golf 2 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776080.m3u8
+#EXTINF:-1 group-title="401",|TH| Golf Channelailand HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776081.m3u8
+#EXTINF:-1 group-title="401",|TH| GMM One
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776078.m3u8
+#EXTINF:-1 group-title="401",|TH| Golf 2 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776079.m3u8
+#EXTINF:-1 group-title="401",|TH| GMM Channel
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776077.m3u8
+#EXTINF:-1 group-title="401",|TH| FOXai [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776076.m3u8
+#EXTINF:-1 group-title="401",|TH| FOXai  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776075.m3u8
+#EXTINF:-1 group-title="401",|TH| FOXai HD  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776074.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 2  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776069.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 3 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776073.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 3  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776072.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 2 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776070.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 1 [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776066.m3u8
+#EXTINF:-1 group-title="401",|TH| SPOtv 1 HD  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776064.m3u8
+#EXTINF:-1 group-title="401",|TH| Family Flix (Eng)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776062.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Life
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776060.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Life HD [Thai-ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776059.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Family Movies HD [Thai-ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776057.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Family Movies
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776058.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Action
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776056.m3u8
+#EXTINF:-1 group-title="401",|TH| Fox Action HD [Thai-ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776055.m3u8
+#EXTINF:-1 group-title="401",|TH| Food Network HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776054.m3u8
+#EXTINF:-1 group-title="401",|TH| FILMASIA HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776052.m3u8
+#EXTINF:-1 group-title="401",|TH| FILM
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776051.m3u8
+#EXTINF:-1 group-title="401",|TH| FILM HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776050.m3u8
+#EXTINF:-1 group-title="401",|TH| Film HD 2  [ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776049.m3u8
+#EXTINF:-1 group-title="401",|TH| Fight Night
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776048.m3u8
+#EXTINF:-1 group-title="401",|TH| Impact Wrestling HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776047.m3u8
+#EXTINF:-1 group-title="401",|TH| Explore Life [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776045.m3u8
+#EXTINF:-1 group-title="401",|TH| Explore Science HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776046.m3u8
+#EXTINF:-1 group-title="401",|TH| Dreamsworks (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776044.m3u8
+#EXTINF:-1 group-title="401",|TH| Dreamworks HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776043.m3u8
+#EXTINF:-1 group-title="401",|TH| Dazzling Cartoon (CN)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776042.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 9 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776041.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 8 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776040.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 7 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776039.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 6 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776038.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 5 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776037.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 4 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776036.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 3 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776035.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 2 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776034.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 15 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776033.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 14 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776032.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 13 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776031.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 12 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776030.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 11 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776029.m3u8
+#EXTINF:-1 group-title="401",|TH| Disney Junior [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776026.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 10 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776028.m3u8
+#EXTINF:-1 group-title="401",|TH| Discovery
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776025.m3u8
+#EXTINF:-1 group-title="401",|TH| DLTV 1 HD [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776027.m3u8
+#EXTINF:-1 group-title="401",|TH| Discovery HD [Thai-ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776024.m3u8
+#EXTINF:-1 group-title="401",|TH| Discovery Asia HD [Thai-ENG]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776023.m3u8
+#EXTINF:-1 group-title="401",|TH| Chinese More (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776022.m3u8
+#EXTINF:-1 group-title="401",|TH| Chinese More HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776021.m3u8
+#EXTINF:-1 group-title="401",|TH| CNBC Asia
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776019.m3u8
+#EXTINF:-1 group-title="401",|TH| CCTV 5+ Sport HD (CN)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776017.m3u8
+#EXTINF:-1 group-title="401",|TH| Channel News Asia
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776018.m3u8
+#EXTINF:-1 group-title="401",|TH| Crime & Investigation
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776016.m3u8
+#EXTINF:-1 group-title="401",|TH| CNN
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776015.m3u8
+#EXTINF:-1 group-title="401",|TH| CINEMAX
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776013.m3u8
+#EXTINF:-1 group-title="401",|TH| Cinemax
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776012.m3u8
+#EXTINF:-1 group-title="401",|TH| CNN Indonesia
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776014.m3u8
+#EXTINF:-1 group-title="401",|TH| CINEMAX HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776011.m3u8
+#EXTINF:-1 group-title="401",|TH| Channel 7 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776009.m3u8
+#EXTINF:-1 group-title="401",|TH| Channel 5
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776008.m3u8
+#EXTINF:-1 group-title="401",|TH| Channel 5 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776007.m3u8
+#EXTINF:-1 group-title="401",|TH| Channel 3
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776006.m3u8
+#EXTINF:-1 group-title="401",|TH| Celestial Classic Movies
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776003.m3u8
+#EXTINF:-1 group-title="401",|TH| CartoonClub
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776002.m3u8
+#EXTINF:-1 group-title="401",|TH| Cartoon Network HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776001.m3u8
+#EXTINF:-1 group-title="401",|TH| CABLE SERIES 1 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775998.m3u8
+#EXTINF:-1 group-title="401",|TH| CABLE SERIES 3 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776000.m3u8
+#EXTINF:-1 group-title="401",|TH| Boonniyom TV HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775997.m3u8
+#EXTINF:-1 group-title="401",|TH| Blue Ant Extreme
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775996.m3u8
+#EXTINF:-1 group-title="401",|TH| V2H6 HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775995.m3u8
+#EXTINF:-1 group-title="401",|TH| Blue Ant Entertainment
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775994.m3u8
+#EXTINF:-1 group-title="401",|TH| Blue Ant Entertainment HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775993.m3u8
+#EXTINF:-1 group-title="401",|TH| BBC World News HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775992.m3u8
+#EXTINF:-1 group-title="401",|TH| BBC Lifestyle HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775991.m3u8
+#EXTINF:-1 group-title="401",|TH| BBC Lifestyle HD/Disc.Science [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775990.m3u8
+#EXTINF:-1 group-title="401",|TH| Baby TV
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775986.m3u8
+#EXTINF:-1 group-title="401",|TH| Black Cinema (Sling)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775987.m3u8
+#EXTINF:-1 group-title="401",|TH| BBC Earth HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775988.m3u8
+#EXTINF:-1 group-title="401",|TH| BBC Earth [Thai]
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775989.m3u8
+#EXTINF:-1 group-title="401",|TH| Uniquelyai
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775984.m3u8
+#EXTINF:-1 group-title="401",|TH| Asian More HD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775982.m3u8
+#EXTINF:-1 group-title="401",|TH| Asian More SD (Truevision)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775983.m3u8
+#EXTINF:-1 group-title="401",|TH| BTV NEWS KHMER
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775985.m3u8
+#EXTINF:-1 group-title="401",|TH| AXN
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775981.m3u8
+#EXTINF:-1 group-title="401",|TH| AXN HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775980.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTRO SUPERSPORTS 4 HD MY
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775978.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTV News HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775979.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTRO SUPERSPORTS 3 HD MY
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775977.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTRO SUPERSPORTS 2 HD MY
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775976.m3u8
+#EXTINF:-1 group-title="401",|TH| ASTRO SUPERSPORTS 1 HD MY
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775975.m3u8
+#EXTINF:-1 group-title="401",|TH| Asian Food Channel
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775972.m3u8
+#EXTINF:-1 group-title="401",|TH| Asian Series HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775973.m3u8
+#EXTINF:-1 group-title="401",|TH| Astro Cricket HD 
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775974.m3u8
+#EXTINF:-1 group-title="401",|TH| ANIPLUS
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775970.m3u8
+#EXTINF:-1 group-title="401",|TH| Animal Planet
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775969.m3u8
+#EXTINF:-1 group-title="401",|TH| Mono Plus HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775968.m3u8
+#EXTINF:-1 group-title="401",|TH| Amarin HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775967.m3u8
+#EXTINF:-1 group-title="401",|TH| Mix Major
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775964.m3u8
+#EXTINF:-1 group-title="401",|TH| Law & Crime (Sling)
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775963.m3u8
+#EXTINF:-1 group-title="401",|TH| &pictures
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775962.m3u8
