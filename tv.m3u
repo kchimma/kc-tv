@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="xxx",PPTV HD
+https://love.pifipa2974.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="xxx",CH3 HD
+https://love.pifipa2974.workers.dev/lx-origin/hd-ch3_720/chunks.m3u8
