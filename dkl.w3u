@@ -1,18 +1,38 @@
 {
-  "name": "01",
+  "name": "server dookeela",
   "author": "dookeela Playlist",
-  "image": "https://linktr.ee/og/image/dookeela.jpg",
+  "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
   "groups": [
     {
-      "name": "dookeela[Sports]",
-      "image": "https://linktr.ee/og/image/dookeela.jpg",
+      "name": "dookeela [กีฬา]",
+      "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
       "stations": [
         {
-          "name": "True Sport 7",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TrueVisions.png",
-          "url": "https://dookeela4.live/live-tv/tsp7",
+          "name": "บีอิง1",
+          "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-/refs/heads/main/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDI2LCA2OjE0OjI0IFBNJmhhc2hfdmFsdWU9bHk2U3hQL2hVNDd4UE1MaE0vTnhvQT09JnZhbGlkbWludXRlcz0xJmlkPWNmN2RiYjE1Y2NhMDA3Y2YxZjA3ZTRjYjg2ZDc1MmNkJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNA==",
           "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "info": "server dookeela",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "บีอิง2",
+          "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/1690843424.png",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOS8yMDI2LCA2OjQyOjEyIFBNJmhhc2hfdmFsdWU9T2FqQ2U5cXl5Z3JjWlZzWk9ONkcwUT09JnZhbGlkbWludXRlcz0xJmlkPWNmN2RiYjE1Y2NhMDA3Y2YxZjA3ZTRjYjg2ZDc1MmNkJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNA==",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "info": "server dookeela",
+          "playInNatPlayer": true,
+          "desktop": true
+        },
+        {
+          "name": "บีอิง3",
+          "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/%E0%B8%9A%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%993.png",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCAxMjoyNjozOSBBTSZoYXNoX3ZhbHVlPStCZnpHM0xaaTIwek1mV3Znb1ZndlE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1jZjdkYmIxNWNjYTAwN2NmMWYwN2U0Y2I4NmQ3NTJjZCZjaGVja2lwPXRydWUmc3RybV9sZW49MTQ=",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "info": "server dookeela",
           "playInNatPlayer": true,
           "desktop": true
@@ -20,15 +40,31 @@
       ]
     },
     {
-      "name": "dookeela[TV Movies]",
-      "image": "https://linktr.ee/og/image/dookeela.jpg",
+      "name": "dookeela [การ์ตูน]",
+      "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
       "stations": [
         {
-          "name": "Samrujlok",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Television_icon.png",
-          "url": "https://dookeela4.live/live-tv/samrujlok",
+          "name": "Nickelodeon",
+          "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/Nickelodeon.png",
+          "url": "https://live2.stream.liveplayback.net/dookeela/nickelodeon/chunks.m3u8?nimblesessionid=112233876&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCA0OjUzOjI0IEFNJmhhc2hfdmFsdWU9d2tyT1gxdWVpTjhYZGxFN3hPK21kdz09JnZhbGlkbWludXRlcz0xJmlkPWExYjM5M2YwYTUxMzM0MmNiZjhmN2ZhZWNjZTczY2ZmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMA==",
           "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+          "info": "server dookeela",
+          "playInNatPlayer": true,
+          "desktop": true
+        }
+      ]
+    },
+    {
+      "name": "dookeela [สารคดี]",
+      "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/images.jpeg",
+      "stations": [
+        {
+          "name": "Animal Show",
+          "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/Animal%20Show.png",
+          "url": "https://live2.stream.liveplayback.net/dookeela/animalshow/chunks.m3u8?nimblesessionid=112231406&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCA0OjIwOjIzIEFNJmhhc2hfdmFsdWU9L1hTbG9MTGdZelI1Q2ExQ01lNHlOZz09JnZhbGlkbWludXRlcz0xJmlkPWExYjM5M2YwYTUxMzM0MmNiZjhmN2ZhZWNjZTczY2ZmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOQ==",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
           "info": "server dookeela",
           "playInNatPlayer": true,
           "desktop": true
