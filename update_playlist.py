@@ -39,6 +39,10 @@ playlist_data = {
         {
             "name": "กีฬาและฟุตบอล",
             "stations": [
+                {"name": "MUTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8", "domain": "dookeela4.live", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "NBA", "url": "https://dij0k9i5q0gvn.cloudfront.net/nba/chunks.m3u8", "domain": "dookeela4.live", "referer": "https://dookeela4.live/"},
                 {"name": "True Sport 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp1/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Sport 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp2/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Sport 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp3/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
@@ -48,9 +52,7 @@ playlist_data = {
                 {"name": "True Sport 7", "url": "https://dij0k9i5q0gvn.cloudfront.net/tsp7/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein1/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
-                {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
-                {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
-                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
+                {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
