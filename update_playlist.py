@@ -1,3 +1,4 @@
+import datetime # เพิ่มบรรทัดนี้ที่หัวไฟล์
 import json
 
 def get_logo(domain):
@@ -72,7 +73,9 @@ playlist_data = {
     ]
 }
 
-m3u_lines = ["#EXTM3U"]
+# แก้ไขส่วนการสร้าง m3u_lines
+current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+m3u_lines = ["#EXTM3U", f"# Updated at: {current_time}"]
 for group in playlist_data["groups"]:
     for st in group["stations"]:
         logo = get_logo(st["domain"])
