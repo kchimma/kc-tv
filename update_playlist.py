@@ -91,15 +91,24 @@ playlist_data = {
             "name": "สารคดีและอื่นๆ",
             "stations": [
                 {"name": "Mysci", "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz", "domain": "footstv.com", "referer": "https://dookeela4.live/"},
-                {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com", "referer": "https://dookeela4.live/"},
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
+                {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com", "referer": "https://dookeela4.live/"},
+                {"name": "True Explore Sci", "url": "https://dij0k9i5q0gvn.cloudfront.net/true-explore-sci/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Explore Wild", "url": "https://dij0k9i5q0gvn.cloudfront.net/true-explore-wild/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
                 {"name": "Discovery Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
                 {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
                 {"name": "TLC", "url": "https://dij0k9i5q0gvn.cloudfront.net/tlc/chunks.m3u8", "domain": "tlc.com", "referer": "https://dookeela4.live/"},
                 {"name": "HGTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/hgtv/chunks.m3u8", "domain": "hgtv.com", "referer": "https://dookeela4.live/"},
                 {"name": "Food Network", "url": "https://dij0k9i5q0gvn.cloudfront.net/food-network/chunks.m3u8", "domain": "foodnetwork.com", "referer": "https://dookeela4.live/"},
-                {"name": "Crime & Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/ci/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"}
+                {"name": "Crime & Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/ci/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
+                {"name": "BBC Earth", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8", "domain": "bbcearth.com", "referer": "https://dookeela4.live/"},
+                {"name": "Crime & Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/ci/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
+                {"name": "DMAX", "url": "https://dij0k9i5q0gvn.cloudfront.net/dmax/chunks.m3u8", "domain": "dmax.com", "referer": "https://dookeela4.live/"},
+                {"name": "Discovery Asia", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery-asia/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
+                {"name": "Foodiez Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/foodiez/chunks.m3u8", "domain": "foodnetwork.com", "referer": "https://dookeela4.live/"},
+                {"name": "Love Nature 4K", "url": "https://dij0k9i5q0gvn.cloudfront.net/love-nature/chunks.m3u8", "domain": "lovenature.com", "referer": "https://dookeela4.live/"},
+                {"name": "RT Documentary", "url": "https://dij0k9i5q0gvn.cloudfront.net/rt-doc/chunks.m3u8", "domain": "rt.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
