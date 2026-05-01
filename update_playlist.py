@@ -5,7 +5,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "playlist",
+    "name": "Mega Playlist 36 (All HBO Channels Restored)",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
