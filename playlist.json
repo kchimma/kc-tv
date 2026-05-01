@@ -65,6 +65,36 @@
           "referer": "https://www.tnnthailand.com/"
         },
         {
+  "name": "One 31",
+  "url": "https://one31-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "one31.net",
+  "referer": "https://www.one31.net/"
+},
+{
+  "name": "GMM 25",
+  "url": "https://gmm25-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "gmm25.com",
+  "referer": "https://www.gmm25.com/"
+},
+{
+  "name": "ไทยพีบีเอส (Thai PBS)",
+  "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "thaipbs.or.th",
+  "referer": "https://www.thaipbs.or.th/"
+},
+{
+  "name": "ช่อง 8",
+  "url": "https://ch8-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "thaich8.com",
+  "referer": "https://www.thaich8.com/"
+},
+{
+  "name": "True4U",
+  "url": "https://true4u-live.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "true4u.com",
+  "referer": "https://www.true4u.com/"
+},
+        {
           "name": "Nation TV",
           "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8",
           "domain": "nationtv.tv",
