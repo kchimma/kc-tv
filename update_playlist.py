@@ -5,7 +5,7 @@ def get_logo(domain):
     return f"https://s2.googleusercontent.com/s2/favicons?domain={domain}&sz=256"
 
 playlist_data = {
-    "name": "Mega Playlist 36 (Updated National Geographic)",
+    "name": "playlist",
     "groups": [
         {
             "name": "ฟรีทีวีและข่าว",
