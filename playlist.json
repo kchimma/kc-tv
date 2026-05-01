@@ -1,5 +1,5 @@
 {
-  "name": "Mega Playlist 36 (All HBO Channels Restored)",
+  "name": "Mega Playlist 36 (Updated: 01/05/2026)",
   "groups": [
     {
       "name": "ฟรีทีวีและข่าว",
@@ -207,18 +207,6 @@
           "referer": "https://dookeela4.live/"
         },
         {
-          "name": "Monomax 1",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8",
-          "domain": "monomax.me",
-          "referer": "https://dookeela4.live/"
-        },
-        {
-          "name": "Monomax 2",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
-          "domain": "monomax.me",
-          "referer": "https://dookeela4.live/"
-        },
-        {
           "name": "beIN Sports 4",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8",
           "domain": "beinsports.com",
@@ -237,6 +225,18 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "Monomax 1",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Monomax 2",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8",
+          "domain": "monomax.me",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "World Fashion",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/world-fashion/chunks.m3u8",
           "domain": "wfc.tv",
@@ -249,7 +249,7 @@
       "stations": [
         {
           "name": "Mysci",
-          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/mysci/chunks.m3u8",
           "domain": "footstv.com",
           "referer": "https://dookeela4.live/"
         },
@@ -323,12 +323,6 @@
           "name": "BBC Earth",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-earth/chunks.m3u8",
           "domain": "bbcearth.com",
-          "referer": "https://dookeela4.live/"
-        },
-        {
-          "name": "Crime & Investigation",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/ci/chunks.m3u8",
-          "domain": "history.com",
           "referer": "https://dookeela4.live/"
         },
         {
