@@ -10,7 +10,7 @@
         {
           "name": "monomax1",
           "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-/refs/heads/main/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
-          "url": "https://live2.stream.liveplayback.net/dookeela/monomax1/chunks.m3u8?nimblesessionid=112283105&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCAyOjAzOjQ0IFBNJmhhc2hfdmFsdWU9ZG5aWCtTR25OQ0pkY2cxRm1QM00xZz09JnZhbGlkbWludXRlcz0xJmlkPTJmZjMwYTAyMTU5NWEwYzZlNTQwMjc4MThmYjNlNmNmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==",
+          "url": "https://dookeela4.live/live-tv/monomax1",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
           "info": "server dookeela",
@@ -21,7 +21,7 @@
         {
           "name": "monomax2",
           "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/1690843424.png",
-          "url": "https://live1.stream.liveplayback.net/dookeela/monomax-2/chunks.m3u8?nimblesessionid=10976853&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCAyOjA0OjE2IFBNJmhhc2hfdmFsdWU9SnNjbnQxS1NkT0duKy9RUzJYWEdaQT09JnZhbGlkbWludXRlcz0xJmlkPTJmZjMwYTAyMTU5NWEwYzZlNTQwMjc4MThmYjNlNmNmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
+          "url": "https://dookeela4.live/live-tv/monomax-2",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
           "info": "server dookeela",
@@ -32,7 +32,7 @@
         {
           "name": "trueexploresci",
           "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/1690843424.png",
-          "url": "https://live1.stream.liveplayback.net/dookeela/trueexploresci/chunks.m3u8?nimblesessionid=10976668&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCAyOjAxOjQ5IFBNJmhhc2hfdmFsdWU9QURWVmsyL0RCUGZ4USszSlBHelZoZz09JnZhbGlkbWludXRlcz0xJmlkPTJmZjMwYTAyMTU5NWEwYzZlNTQwMjc4MThmYjNlNmNmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMw==",
+          "url": "https://dookeela4.live/live-tv/trueexploresci",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
           "info": "server dookeela",
@@ -41,9 +41,9 @@
         },
 
         {
-          "name": "SRJ",
+          "name": "samrujlok",
           "image": "https://raw.githubusercontent.com/nookkiir5r5-png/-1/refs/heads/main/%E0%B8%9A%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%993.png",
-          "url": "https://live2.stream.liveplayback.net/dookeela/samrujlok/chunks.m3u8?nimblesessionid=112282444&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDI2LCAxOjU0OjQwIFBNJmhhc2hfdmFsdWU9YXA0a0tnelFVNWZLUDFhVkJWMWhpZz09JnZhbGlkbWludXRlcz0xJmlkPTJmZjMwYTAyMTU5NWEwYzZlNTQwMjc4MThmYjNlNmNmJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xOA==",
+          "url": "https://dookeela4.live/live-tv/samrujlok",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
           "info": "server dookeela",
