@@ -2,8 +2,8 @@ name: Auto Update Playlist
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */6 * * *' # อัปเดตทุก 6 ชั่วโมง (เอา # ออกถ้าต้องการตั้งเวลา)
+  schedule:
+    - cron: '0 */6 * * *' # อัปเดตทุก 6 ชั่วโมง
 
 jobs:
   build:
