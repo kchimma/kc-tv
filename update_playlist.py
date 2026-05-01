@@ -20,7 +20,37 @@ playlist_data = {
                 {"name": "WORKPOINT", "url": "https://workpoint-web.cdn.byteark.com/live/playlist.m3u8", "domain": "workpointtv.com", "referer": "https://www.workpointtv.com/"},
                 {"name": "PPTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/pptv/chunks.m3u8", "domain": "pptvhd36.com", "referer": "https://dookeela4.live/"},
                 {"name": "TNN16", "url": "https://tnn16-web.cdn.byteark.com/live/playlist.m3u8", "domain": "tnnthailand.com", "referer": "https://www.tnnthailand.com/"},
-                {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv", "referer": "https://www.nationtv.tv/"}
+                {"name": "Nation TV", "url": "https://nation-web.cdn.byteark.com/live/playlist.m3u8", "domain": "nationtv.tv", "referer": "https://www.nationtv.tv/"},
+                {
+  "name": "One 31",
+  "url": "https://one31-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "one31.net",
+  "referer": "https://www.one31.net/"
+},
+{
+  "name": "GMM 25",
+  "url": "https://gmm25-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "gmm25.com",
+  "referer": "https://www.gmm25.com/"
+},
+{
+  "name": "ไทยพีบีเอส (Thai PBS)",
+  "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "thaipbs.or.th",
+  "referer": "https://www.thaipbs.or.th/"
+},
+{
+  "name": "ช่อง 8",
+  "url": "https://ch8-web.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "thaich8.com",
+  "referer": "https://www.thaich8.com/"
+},
+{
+  "name": "True4U",
+  "url": "https://true4u-live.cdn.byteark.com/live/playlist.m3u8",
+  "domain": "true4u.com",
+  "referer": "https://www.true4u.com/"
+}
             ]
         },
         {
@@ -35,7 +65,11 @@ playlist_data = {
                 {"name": "HBO Family", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-family/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Hits", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-hits/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
                 {"name": "HBO Signature", "url": "https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8", "domain": "hbo.com", "referer": "https://dookeela4.live/"},
-                {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"}
+                {"name": "Cinemax", "url": "https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8", "domain": "cinemax.com", "referer": "https://dookeela4.live/"},
+                {"name": "Warner TV", "url": "https://dij0k9i5q0gvn.cloudfront.net/warner-tv/chunks.m3u8", "domain": "warnertv.com", "referer": "https://dookeela4.live/"},
+                {"name": "Paramount Network", "url": "https://dij0k9i5q0gvn.cloudfront.net/paramount/chunks.m3u8", "domain": "paramountnetwork.com", "referer": "https://dookeela4.live/"},
+                {"name": "AXN", "url": "https://dij0k9i5q0gvn.cloudfront.net/axn/chunks.m3u8", "domain": "axn-asia.com", "referer": "https://dookeela4.live/"},
+                {"name": "KBS World", "url": "https://dij0k9i5q0gvn.cloudfront.net/kbs-world/chunks.m3u8", "domain": "kbsworld.kbs.co.kr", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -46,7 +80,11 @@ playlist_data = {
                 {"name": "beIN Sports 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein2/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "beIN Sports 3", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein3/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
-                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"}
+                {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 4", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein4/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 5", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein5/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "beIN Sports 6", "url": "https://dij0k9i5q0gvn.cloudfront.net/bein6/chunks.m3u8", "domain": "beinsports.com", "referer": "https://dookeela4.live/"},
+                {"name": "World Fashion", "url": "https://dij0k9i5q0gvn.cloudfront.net/world-fashion/chunks.m3u8", "domain": "wfc.tv", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -57,7 +95,11 @@ playlist_data = {
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
                 {"name": "Discovery Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/discovery/chunks.m3u8", "domain": "discovery.com", "referer": "https://dookeela4.live/"},
-                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"}
+                {"name": "National Geographic", "url": "https://dij0k9i5q0gvn.cloudfront.net/nat-geo/chunks.m3u8", "domain": "nationalgeographic.com", "referer": "https://dookeela4.live/"},
+                {"name": "TLC", "url": "https://dij0k9i5q0gvn.cloudfront.net/tlc/chunks.m3u8", "domain": "tlc.com", "referer": "https://dookeela4.live/"},
+                {"name": "HGTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/hgtv/chunks.m3u8", "domain": "hgtv.com", "referer": "https://dookeela4.live/"},
+                {"name": "Food Network", "url": "https://dij0k9i5q0gvn.cloudfront.net/food-network/chunks.m3u8", "domain": "foodnetwork.com", "referer": "https://dookeela4.live/"},
+                {"name": "Crime & Investigation", "url": "https://dij0k9i5q0gvn.cloudfront.net/ci/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"}
             ]
         },
         {
@@ -67,7 +109,11 @@ playlist_data = {
                 {"name": "Nickelodeon", "url": "https://dij0k9i5q0gvn.cloudfront.net/nickelodeon/chunks.m3u8", "domain": "nick.com", "referer": "https://dookeela4.live/"},
                 {"name": "Nick Jr", "url": "https://dij0k9i5q0gvn.cloudfront.net/nickjr/chunks.m3u8", "domain": "nick.com", "referer": "https://dookeela4.live/"},
                 {"name": "DreamWorks", "url": "https://dij0k9i5q0gvn.cloudfront.net/dreamworks/chunks.m3u8", "domain": "dreamworks.com", "referer": "https://dookeela4.live/"},
-                {"name": "Boomerang", "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8", "domain": "boomerangtv.co.th", "referer": "https://dookeela4.live/"}
+                {"name": "Boomerang", "url": "https://dij0k9i5q0gvn.cloudfront.net/boomerang/chunks.m3u8", "domain": "boomerangtv.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "Disney Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/disney-channel/chunks.m3u8", "domain": "disneynow.com", "referer": "https://dookeela4.live/"},
+                {"name": "Disney Junior", "url": "https://dij0k9i5q0gvn.cloudfront.net/disney-junior/chunks.m3u8", "domain": "disneynow.com", "referer": "https://dookeela4.live/"},
+                {"name": "CBeebies", "url": "https://dij0k9i5q0gvn.cloudfront.net/cbeebies/chunks.m3u8", "domain": "bbc.co.uk", "referer": "https://dookeela4.live/"},
+                {"name": "Animax", "url": "https://dij0k9i5q0gvn.cloudfront.net/animax/chunks.m3u8", "domain": "animax-asia.com", "referer": "https://dookeela4.live/"}
             ]
         }
     ]
