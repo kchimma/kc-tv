@@ -219,7 +219,7 @@
       "stations": [
         {
           "name": "Mysci",
-          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8?nimblesessionid=2899307&wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDEvMjAyNiAwMTozNDoyNyBQTSZoYXNoX3ZhbHVlPSs4OXJ1bXFscEYxRUxBRWYvVWFrU3c9PSZ2YWxpZG1pbnV0ZXM9NSZzdHJtX2xlbj0xMCZpZD13ZWItMzUyMjYz",
+          "url": "https://alpha.footstv.com/dooflix_x1/mysci/chunks.m3u8",
           "domain": "footstv.com",
           "referer": "https://dookeela4.live/"
         },
@@ -238,6 +238,12 @@
         {
           "name": "True Explore Wild",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "True Xzite",
+          "url": "https://dij0k9i5q0gvn.cloudfront.net/truexzyte/chunks.m3u8",
           "domain": "truevisions.co.th",
           "referer": "https://dookeela4.live/"
         },
