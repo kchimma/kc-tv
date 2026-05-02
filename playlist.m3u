@@ -145,10 +145,10 @@ https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8|Referer=https://
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8|Referer=https://dookeela4.live/
-#EXTINF:-1 tvg-id="True Xzite" tvg-name="True Xzite" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Xzite
+#EXTINF:-1 tvg-id="True Xzyte" tvg-name="True Xzyte" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Xzyte
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
-https://dij0k9i5q0gvn.cloudfront.net/truexzyte/chunks.m3u8|Referer=https://dookeela4.live/
+https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbclifestyle.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Lifestyle
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
