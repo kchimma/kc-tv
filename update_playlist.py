@@ -62,7 +62,7 @@ playlist_data = {
                 {"name": "สำรวจโลก", "url": "https://dij0k9i5q0gvn.cloudfront.net/samrujlok/chunks.m3u8", "domain": "nextstep.tv", "referer": "https://dookeela4.live/"},
                 {"name": "True Explore Sci", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueexploresci/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "True Explore Wild", "url": "https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
-                {"name": "True Xzite", "url": "https://dij0k9i5q0gvn.cloudfront.net/truexzyte/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
+                {"name": "True Xzyte", "url": "https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8", "domain": "truevisions.co.th", "referer": "https://dookeela4.live/"},
                 {"name": "BBC Lifestyle", "url": "https://dij0k9i5q0gvn.cloudfront.net/bbc-lifestyle/chunks.m3u8", "domain": "bbclifestyle.com", "referer": "https://dookeela4.live/"},
                 {"name": "Animal Show", "url": "https://dij0k9i5q0gvn.cloudfront.net/animalshow/chunks.m3u8", "domain": "animalplanet.com", "referer": "https://dookeela4.live/"},
                 {"name": "History Channel", "url": "https://dij0k9i5q0gvn.cloudfront.net/history/chunks.m3u8", "domain": "history.com", "referer": "https://dookeela4.live/"},
