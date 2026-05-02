@@ -85,6 +85,18 @@ https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8|Referer=https://dookee
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Astro1" tvg-name="Astro1" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",Astro1
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775975.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Astro2" tvg-name="Astro2" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",Astro2
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775976.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Astro3" tvg-name="Astro3" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="กีฬาและฟุตบอล",Astro3
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+#EXTHTTP:{"referer":"https://dookeela4.live/"}
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775977.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=dookeela4.live&sz=256" group-title="กีฬาและฟุตบอล",NBA
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
@@ -148,7 +160,7 @@ https://dij0k9i5q0gvn.cloudfront.net/trueexplorewild/chunks.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="True Xzyte" tvg-name="True Xzyte" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=truevisions.co.th&sz=256" group-title="สารคดีและอื่นๆ",True Xzyte
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
-https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8|Referer=https://dookeela4.live/
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776247.m3u8|Referer=https://dookeela4.live/
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=bbclifestyle.com&sz=256" group-title="สารคดีและอื่นๆ",BBC Lifestyle
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}

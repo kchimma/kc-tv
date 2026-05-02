@@ -147,6 +147,24 @@
           "referer": "https://dookeela4.live/"
         },
         {
+          "name": "Astro1",
+          "url": "http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775975.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Astro2",
+          "url": "http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775976.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
+          "name": "Astro3",
+          "url": "http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1775977.m3u8",
+          "domain": "truevisions.co.th",
+          "referer": "https://dookeela4.live/"
+        },
+        {
           "name": "NBA",
           "url": "https://dij0k9i5q0gvn.cloudfront.net/nba/chunks.m3u8",
           "domain": "dookeela4.live",
@@ -243,7 +261,7 @@
         },
         {
           "name": "True Xzyte",
-          "url": "https://dij0k9i5q0gvn.cloudfront.net/truex-zyte/chunks.m3u8",
+          "url": "http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1776247.m3u8",
           "domain": "truevisions.co.th",
           "referer": "https://dookeela4.live/"
         },
