@@ -39,6 +39,7 @@ playlist_data = {
         {
             "name": "กีฬาและฟุตบอล",
             "stations": [
+                {"name": "Check", "url": "https://live-sport-4.monomax.me/c/index-hls.m3u8", "domain": "monomax.me", "referer": "https://monomax.me/"},
                 {"name": "MUTV", "url": "https://dij0k9i5q0gvn.cloudfront.net/mutv/chunks.m3u8", "domain": "dookeela4.live", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 1", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax1/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
                 {"name": "Monomax 2", "url": "https://dij0k9i5q0gvn.cloudfront.net/monomax-2/chunks.m3u8", "domain": "monomax.me", "referer": "https://dookeela4.live/"},
