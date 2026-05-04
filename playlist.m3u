@@ -73,6 +73,10 @@ https://dij0k9i5q0gvn.cloudfront.net/hbo-signature/chunks.m3u8|Referer=https://d
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
 https://dij0k9i5q0gvn.cloudfront.net/cinemax/chunks.m3u8|Referer=https://dookeela4.live/
+#EXTINF:-1 tvg-id="Check" tvg-name="Check" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=monomax.me&sz=256" group-title="กีฬาและฟุตบอล",Check
+#EXTVLCOPT:http-referrer=https://monomax.me/
+#EXTHTTP:{"referer":"https://monomax.me/"}
+https://live-sport-4.monomax.me/c/index-hls.m3u8|Referer=https://monomax.me/
 #EXTINF:-1 tvg-id="MUTV" tvg-name="MUTV" tvg-logo="https://s2.googleusercontent.com/s2/favicons?domain=dookeela4.live&sz=256" group-title="กีฬาและฟุตบอล",MUTV
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
 #EXTHTTP:{"referer":"https://dookeela4.live/"}
